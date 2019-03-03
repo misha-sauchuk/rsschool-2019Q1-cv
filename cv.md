@@ -50,7 +50,8 @@ software testing
 ***
 ***
 ### Experience
-***  
+*** 
+   
  Project Name  | [Timetable](https://github.com/misha-sauchuk/Timetable)
 -------------: | :-------------
 *Description*  | Application save data in database, get new information fromusers and create timetable for moth work comparing data from users and database, and show results in table form in browser
@@ -114,7 +115,7 @@ Bachelor’s degree of engineer-mechanic
   
 ***
 ***  
-### Professional interests  
+### Professional interests    
 ***
 * Mark Lutz “Learning Python”  
 * Bill Lubanovic “Introducing Python. Modern Computing in Simple”  
