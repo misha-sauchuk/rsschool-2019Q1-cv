@@ -5,7 +5,7 @@ skype: **mrpestol**
 e-mail: **mishasavchuk@gmail.com**  
 linkedin: **[www.linkedin.com/in/mikhail-savchuk](www.linkedin.com/in/mikhail-savchuk)**  
 github: **[https://github.com/misha-sauchuk](https://github.com/misha-sauchuk)**
-*** 
+
 ***
 ### Summary  
 ***
@@ -38,9 +38,11 @@ software testing
  * ***Management tools:***
     * Jira
  * ***Languages:***
-    * Enghlish - Intermediate
+    * Enghlish - Intermediate  
+    
  ***
- ***
+ ***   
+ 
  ### Experience
  ***
  Project Name  | [Timetable](https://github.com/misha-sauchuk/Timetable)
