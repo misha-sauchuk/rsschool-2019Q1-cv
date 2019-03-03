@@ -40,11 +40,10 @@ software testing
  * ***Languages:***
     * Enghlish - Intermediate  
     
- ***
- ***   
- 
- ### Experience
- ***  
+***
+***  
+### Experience  
+***  
  
  Project Name  | [Timetable](https://github.com/misha-sauchuk/Timetable)
 -------------: | :-------------
@@ -81,7 +80,6 @@ Project Name  | Parking Cloud
 ***
 ***  
 ### Education  
- 
 ***
 **19.11.2018 – 22.12.2018, JET BI**  
 *Course:* QA and Software Testing  
