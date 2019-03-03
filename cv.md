@@ -12,8 +12,9 @@ github: **[https://github.com/misha-sauchuk](https://github.com/misha-sauchuk)**
 **[Experience](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv#experience)** | 
 **[Eduacation](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv#education)** |
 **[Professional interests](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv#professional-interests)**  
-***
-### Summary  
+***  
+
+### Summary [:arrow_up:](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv)    
 ***
 
 * 3 month of experience in software developer  
@@ -24,7 +25,7 @@ software testing
 
 ***
 ***
-### Skills
+### Skills [:arrow_up:](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv)  
 ***
 * ***Programming languages/technologies:***
     * HTML5/CSS
@@ -49,7 +50,7 @@ software testing
 
 ***
 ***
-### Experience
+### Experience [:arrow_up:](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv)  
 ***  
   
   
@@ -87,7 +88,7 @@ Project Name  | Parking Cloud
 
 ***
 ***  
-### Education  
+### Education [:arrow_up:](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv)   
 ***
 **19.11.2018 – 22.12.2018, JET BI**  
 *Course:* QA and Software Testing  
@@ -116,7 +117,7 @@ Bachelor’s degree of engineer-mechanic
   
 ***
 ***  
-### Professional interests    
+### Professional interests [:arrow_up:](https://misha-sauchuk.github.io/rsschool-2019Q1-cv/cv)    
 ***
 * Mark Lutz “Learning Python”  
 * Bill Lubanovic “Introducing Python. Modern Computing in Simple”  
