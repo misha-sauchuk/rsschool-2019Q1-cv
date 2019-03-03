@@ -79,7 +79,7 @@ Project Name  | Parking Cloud
 *Involvement Duration*|1 week  
 
 ***
-***
+***  
 ### Education  
  
 ***
